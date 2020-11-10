@@ -5,7 +5,7 @@
             "altitude": "100",
             "dogs": "Dezik (♂),Tsygan (♂)",
             "rocket": "R-1V",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -13,7 +13,7 @@
             "altitude": "100",
             "dogs": "Dezik (♂),Lisa (♀)",
             "rocket": "R-1B",
-            "result": "parachute failed, both dogs died",
+            "result": "Parachute failed, both dogs died",
             "color" : "red"
         },
         {
@@ -21,7 +21,7 @@
             "altitude": "100",
             "dogs": "Chizhik (♂),Mishka (♂)",
             "rocket": "R-1B",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -29,7 +29,7 @@
             "altitude": "100",
             "dogs": "Ryzhik (♂),Smeliy (♂)",
             "rocket": "R-1V",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -37,7 +37,7 @@
             "altitude": "100",
             "dogs": "Chizhik (♂),Mishka (♂)",
             "rocket": "R-1B",
-            "result": "failed, both dogs died",
+            "result": "Failed, both dogs died",
             "color" : "red"
         },
         {
@@ -45,7 +45,7 @@
             "altitude": "100",
             "dogs": "Neputeviy (♂),ZIB (♂)",
             "rocket": "R-1B",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -53,7 +53,7 @@
             "altitude": "100",
             "dogs": "Lisa-2 (♀),Ryzhik-2 (♂)",
             "rocket": "R-1D",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         }
     ],
@@ -63,7 +63,7 @@
             "altitude": "100",
             "dogs": "Damka (♀),Mishka-2 (♂)",
             "rocket": "R-1D",
-            "result": "recovered safely, mishka-2 died",
+            "result": "Recovered safely, mishka-2 died",
             "color" : "yellow"
         },
         {
@@ -71,7 +71,7 @@
             "altitude": "100",
             "dogs": "Damka (♀),Ryzhik-2 (♂)",
             "rocket": "R-1D",
-            "result": "recovered safely, ryshik-2 died",
+            "result": "Recovered safely, ryshik-2 died",
             "color" : "yellow"
         }
     ],
@@ -81,7 +81,7 @@
             "altitude": "100",
             "dogs": "Rita (♀),Linda (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely, rita died",
+            "result": "Recovered safely, rita died",
             "color" : "yellow"
         },
         {
@@ -89,7 +89,7 @@
             "altitude": "100",
             "dogs": "Bulba (♀),Lisa-2 (♀)",
             "rocket": "R-1E",
-            "result": "recovery failed, both dogs died",
+            "result": "Recovery failed, both dogs died",
             "color" : "red"
         },
         {
@@ -97,7 +97,7 @@
             "altitude": "100",
             "dogs": "Knopka (♀),Malyshka (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely after 3 days",
+            "result": "Recovered safely after 3 days",
             "color" : "green"
         }
     ],
@@ -107,7 +107,7 @@
             "altitude": "100",
             "dogs": "Albina (♀),Kozyavka (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -115,7 +115,7 @@
             "altitude": "100",
             "dogs": "Linda (♀),Malyshka (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -123,7 +123,7 @@
             "altitude": "100",
             "dogs": "Albina (♀),Kozyavka (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -131,7 +131,7 @@
             "altitude": "100",
             "dogs": "Albina (♀),Kozyavka (♀)",
             "rocket": "R-1E",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         }
     ],
@@ -141,7 +141,7 @@
             "altitude": "212",
             "dogs": "Damka-2 (♀),Ryzhaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -149,7 +149,7 @@
             "altitude": "212",
             "dogs": "Dzhoyna (♀),Ryzhaya (♀)",
             "rocket": "R-2A",
-            "result": "cabin decompression, both dogs died",
+            "result": "Cabin decompression, both dogs died",
             "color" : "red"
         },
         {
@@ -157,7 +157,7 @@
             "altitude": "212",
             "dogs": "Belka (♀),Modnitsa (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -165,7 +165,7 @@
             "altitude": "212",
             "dogs": "Belka (♀),Damka-2 (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -173,7 +173,7 @@
             "altitude": "212",
             "dogs": "Belka (♀),Modnitsa (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -181,7 +181,7 @@
             "altitude": "500",
             "dogs": "Laika (♀)",
             "rocket": "R-7, Sputnik 2",
-            "result": "no recovery system, died in space",
+            "result": "No recovery system, died in space",
             "color" : "red"
         }
     ],
@@ -191,7 +191,7 @@
             "altitude": "451",
             "dogs": "Palma (♀),Pushok (♂)",
             "rocket": "R-5A",
-            "result": "cabin decompression, both dogs died",
+            "result": "Cabin decompression, both dogs died",
             "color" : "red"
         },
         {
@@ -199,7 +199,7 @@
             "altitude": "212",
             "dogs": "Palma-2 (♀),</br>Kusachka / Otvazhnaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -207,7 +207,7 @@
             "altitude": "212",
             "dogs": "Palma-2 (♀),</br>Kusachka / Otvazhnaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -215,7 +215,7 @@
             "altitude": "451",
             "dogs": "Belyanka (♀),Pestraya (♀)",
             "rocket": "R-5A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -223,7 +223,7 @@
             "altitude": "451",
             "dogs": "Knopka (♀),Zhulba (♀)",
             "rocket": "R-5A",
-            "result": "parachute failed, both dogs died",
+            "result": "Parachute failed, both dogs died",
             "color" : "red"
         }
     ],
@@ -233,7 +233,7 @@
             "altitude": "212",
             "dogs": "Kusachka / Otvazhnaya (♀),</br>Snezhinka / Zhemchuzhnaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -241,7 +241,7 @@
             "altitude": "212",
             "dogs": "Kusachka / Otvazhnaya (♀),</br>Snezhinka / Zhemchuzhnaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         }
     ],
@@ -251,7 +251,7 @@
             "altitude": "212",
             "dogs": "Kusachka / Otvazhnaya (♀),</br>Malyok (♂)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -259,7 +259,7 @@
             "altitude": "212",
             "dogs": "Kusachka / Otvazhnaya (♀),</br>Snezhinka / Zhemchuzhnaya (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -267,7 +267,7 @@
             "altitude": "500",
             "dogs": "Lisichka (♀),</br>Bars / Chaika (♀)",
             "rocket": "R-7, Vostok Prototype",
-            "result": "exploded during launch, both dogs died",
+            "result": "Exploded during launch, both dogs died",
             "color" : "red"
         },
         {
@@ -275,7 +275,7 @@
             "altitude": "500",
             "dogs": "Belka (♀),Strelka (♀)",
             "rocket": "R-7, Sputnik 5",
-            "result": "spent one day in orbit, recovered safely",
+            "result": "Spent one day in orbit, Recovered safely",
             "color" : "green"
         },
         {
@@ -283,7 +283,7 @@
             "altitude": "212",
             "dogs": "Malyok (♂),Palma-2 (♀)",
             "rocket": "R-2A",
-            "result": "recovered safely",
+            "result": "Recovered safely",
             "color" : "green"
         },
         {
@@ -291,7 +291,7 @@
             "altitude": "500",
             "dogs": "Mushka (♀),Pchyolka (♀)",
             "rocket": "R-7, Sputnik 6",
-            "result": "spent one day in orbit, capsule was destroyed, both dogs died",
+            "result": "Spent one day in orbit, capsule was destroyed, both dogs died",
             "color" : "red"
         },
         {
@@ -299,7 +299,7 @@
             "altitude": "500",
             "dogs": "Shutka (♀),Kometka (♀)",
             "rocket": "R-7",
-            "result": "upper stage failed, dogs recovered after a suborbital flight",
+            "result": "Upper stage failed, dogs recovered after a suborbital flight",
             "color" : "green"
         }
     ],
@@ -309,7 +309,7 @@
             "altitude": "500",
             "dogs": "Chernuskha (♀)",
             "rocket": "R-7, Sputnik 9",
-            "result": "one orbit, recovered safely",
+            "result": "One orbit, Recovered safely",
             "color" : "green"
         },
         {
@@ -317,7 +317,7 @@
             "altitude": "500",
             "dogs": "Zvezdochka (♀)",
             "rocket": "R-7, Sputnik 10",
-            "result": "one orbit, recovered safely",
+            "result": "One orbit, Recovered safely",
             "color" : "green"
         }
     ],
@@ -327,7 +327,7 @@
             "altitude": "500",
             "dogs": "Ugolyok / Snezhok (♂),</br>Veterok / Bzdunok  (♂)",
             "rocket": "Voskhod, Cosmos 110",
-            "result": "recovered safely after a 22-day flight",
+            "result": "Recovered safely after a 22-day flight",
             "color" : "green"
         }
     ]

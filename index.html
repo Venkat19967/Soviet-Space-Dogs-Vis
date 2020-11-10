@@ -17,11 +17,28 @@
      
 
 
-      &nbsp;Year:&nbsp;
-      <input id='year-input' type='number' value='1951' min='1951' max='1966' onchange="location.reload();">
+      <!-- &nbsp;Year:&nbsp;
+      <input id='year-input' type='number' value='1951' min='1951' max='1966' > -->
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+      <label for="year-input">Year:</label>
+
+      <select name="Year" id="year-input">
+          <option value="1951">1951</option>
+          <option value="1954">1954</option>
+          <option value="1955">1955</option>
+          <option value="1956">1956</option>
+          <option value="1957">1957</option>
+          <option value="1958">1958</option>
+          <option value="1959">1959</option>
+          <option value="1960">1960</option>
+          <option value="1961">1961</option>
+          <option value="1966">1966</option>
+      </select>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Change the years to view the different flights
       <br/>
       <svg id='dogs_svg'></svg>
 

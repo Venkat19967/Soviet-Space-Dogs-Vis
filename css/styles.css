@@ -45,12 +45,13 @@
     text-align:center;
   }
   
-  div.tooltip-map {
+  
+  div.tooltip-map{
     position: absolute;
     text-align: left;
     padding: .5rem;
     /* background: #ffffff; */
-    color: #ffffff;
+    /* color: #ffffff; */
     border: 2px solid #000000;
     border-radius: 8px;
     pointer-events: none;
@@ -60,3 +61,26 @@
   
 
 
+
+.tooltip-map:hover div {
+  border: 2px solid white;
+}
+  
+
+.hide {
+  display: none;
+}
+
+
+
+div.rocket-hover {
+  position: absolute;
+  text-align: left;
+  padding: .5rem;
+  background: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 1.3rem;
+}
