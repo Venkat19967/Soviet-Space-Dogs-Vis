@@ -2,9 +2,11 @@
 The visualization shows some information about space missions of Soviet space dogs from 1951 to 1966. 
 The data set consists of two CSVs that show information sorted with respect to dogs and also by flights.
 The data has been processed using Python - Pandas and stored as a JSON file.
+The quantitative attributes are year and altitude. 
+The qualitative attributes are success of mission and gender of the dog.
 
 1. Use the year dropdown to switch between the years
-2. Hover your mouse over the spaceships to get more information on the status of the misssion
+2. Hover your mouse over the spaceships to get more information on the status of the misssion and the date of the mission
 3. The altitude is in km 
 
 # Problem Statement:
