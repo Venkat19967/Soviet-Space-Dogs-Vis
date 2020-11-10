@@ -55,6 +55,108 @@ function drawcircles(yearvals){
     svg.html("");
     d3.selectAll('#info').remove();
 
+
+    svg.append('text')
+    .attr('x', svg_width/2 - earth_width/2 + 50 + 40)
+    .attr('y', 22)
+    .attr('fill', 'white')
+    .attr("font-weight",100)
+    .text('100');
+    svg.append('text')
+    .attr('x', svg_width/2 - earth_width/2 + 150)
+    .attr('y', 45)
+    .attr('fill', 'white')
+    .text('212');
+    svg.append('text')
+    .attr('x', svg_width/2 - earth_width/2 + 280)
+    .attr('y', 70)
+    .attr('fill', 'white')
+    .text('451');
+    svg.append('text')
+    .attr('x', svg_width/2 - earth_width/2 + 295)
+    .attr('y', 95)
+    .attr('fill', 'white')
+    .text('Orbital');
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50)
+    .attr("y1", 25)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 115)
+    .attr("y2", 25);
+
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50)
+    .attr("y1", 50)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 243.8)
+    .attr("y2", 50);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50)
+    .attr("y1", 75)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 518.65)
+    .attr("y2", 75);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50)
+    .attr("y1", 100)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 575)
+    .attr("y2", 100);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50)
+    .attr("y1", 25)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 )
+    .attr("y2", svg_height/2 - earth_height/2 +50)
+    .attr('opacity', 0.1);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50 + 115)
+    .attr("y1", 25)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 115)
+    .attr("y2", svg_height/2 - earth_height/2 +50)
+    .attr('opacity', 0.1);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50 + 575)
+    .attr("y1", 100)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 575)
+    .attr("y2", svg_height/2 - earth_height/2 +50)
+    .attr('opacity', 0.1);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50 + 518.65)
+    .attr("y1", 75)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 518.65)
+    .attr("y2", svg_height/2 - earth_height/2 +50)
+    .attr('opacity', 0.1);
+
+    svg.append('line')
+    .style("stroke", "white")
+    .style("stroke-width", 1)
+    .attr("x1", svg_width/2 - earth_width/2 + 50 + 243.8)
+    .attr("y1", 50)
+    .attr("x2", svg_width/2 - earth_width/2 + 50 + 243.8 )
+    .attr("y2", svg_height/2 - earth_height/2 +50)
+    .attr('opacity', 0.1);
+
+
     earth = svg.append('image')
     .attr('xlink:href', '../images/globe.svg')
     .attr('width', 100)
@@ -133,7 +235,7 @@ function drawcircles(yearvals){
     .attr('x', 25)
     .attr('y', 180)
     .attr('fill', 'white')
-    .style("font-weight","800px" )
+    .style("font-weight","300" )
     .text('♀');
 
     svg.append('text')
