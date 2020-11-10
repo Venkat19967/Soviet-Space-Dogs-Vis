@@ -1,3 +1,12 @@
+# What this visualization is showing and how to see information on it:
+The visualization shows some information about space missions of Soviet space dogs from 1951 to 1966. 
+The data set consists of two CSVs that show information sorted with respect to dogs and also by flights.
+The data has been processed using Python - Pandas and stored as a JSON file.
+
+1. Use the year dropdown to switch between the years
+2. Hover your mouse over the spaceships to get more information on the status of the misssion
+
+# Problem Statement:
 # Innovative Visualization Design
 
 In this homework, you will create a unique visualization that goes beyond the "common chart types" that you already exist. **This assignment is worth 10 points.**
