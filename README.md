@@ -5,6 +5,7 @@ The data has been processed using Python - Pandas and stored as a JSON file.
 
 1. Use the year dropdown to switch between the years
 2. Hover your mouse over the spaceships to get more information on the status of the misssion
+3. The altitude is in km 
 
 # Problem Statement:
 # Innovative Visualization Design

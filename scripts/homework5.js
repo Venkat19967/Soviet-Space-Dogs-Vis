@@ -286,7 +286,7 @@ function drawcircles(yearvals){
         tooltip = d3.select("body").append("div")
         .attr("class", "rocket-hover")
         .attr('id', `rocket-hover${String(i)}`)
-        .html(`${yearvals[i]['result']}`)
+        .html(`${yearvals[i]['date']}</br>${yearvals[i]['result']}`)
         .style("opacity", 0);
         
         // rocket image
